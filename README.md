@@ -2,6 +2,22 @@
 
 An original quiet blue-haired sci-fi pilot pet for Codex, with a white suit, soft cyan accents, and calm chibi energy.
 
+## Preview
+
+![Blue Pilot preview](preview.png)
+
+## Actions
+
+![Blue Pilot action overview](actions-overview.png)
+
+| Idle | Running | Waiting |
+| --- | --- | --- |
+| ![Idle animation](action-previews/idle.gif) | ![Running animation](action-previews/running.gif) | ![Waiting animation](action-previews/waiting.gif) |
+
+| Waving | Review | Failed |
+| --- | --- | --- |
+| ![Waving animation](action-previews/waving.gif) | ![Review animation](action-previews/review.gif) | ![Failed animation](action-previews/failed.gif) |
+
 ## Install
 
 Copy this folder to:
@@ -35,4 +51,4 @@ Then open Codex:
 
 ## Attribution
 
-Created as an original Codex pet package.
+Created as an original Codex pet package by Y1Shen.
