@@ -1,6 +1,8 @@
-# Blue Pilot Codex Pet
+# Blue Pilot: Ayanami Rei Inspired Codex Pet
 
-An original quiet blue-haired sci-fi pilot pet for Codex, with a white suit, soft cyan accents, and calm chibi energy.
+A fan-made Codex pet inspired by Ayanami Rei, with an original quiet blue-haired sci-fi pilot design, a white suit, soft cyan accents, and calm chibi energy.
+
+This is an unofficial fan-made pet. It is not affiliated with, endorsed by, or using official Evangelion assets.
 
 ## Preview
 
